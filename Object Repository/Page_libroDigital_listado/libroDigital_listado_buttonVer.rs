@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_listado_buttonVer</name>
+   <tag></tag>
+   <elementGuidId>e8a133f5-1d8f-43e5-a969-2b1bc2152af8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='grillaAlumnos']/tr/td[14]/span/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-eye.x18</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.verTooltip > a >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>c5c66798-a917-43fa-9469-aa149de0d702</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-eye x18</value>
+      <webElementGuid>736faa82-cd52-4878-9655-974066e1667a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>10646f1f-1fdf-4838-87df-8c7d4b7a0d7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grillaAlumnos&quot;)/tr[1]/td[@class=&quot;ancho-herramientas&quot;]/span[@class=&quot;verTooltip&quot;]/a[1]/i[@class=&quot;fa fa-eye x18&quot;]</value>
+      <webElementGuid>8d6faa02-ac9c-4f7b-864e-6fad9a5e40c0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='grillaAlumnos']/tr/td[14]/span/a/i</value>
+      <webElementGuid>87b061e2-bda3-40c2-8a4c-89d3032022ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/i</value>
+      <webElementGuid>649f4272-b701-4d61-a5ec-f008c3a55cbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

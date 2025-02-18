@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_libroClases_labelAntesedentesAsignatura</name>
+   <tag></tag>
+   <elementGuidId>ebef4ee9-dacd-4e26-af33-b6791951a84a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='classbook']/div/div[6]/div/table/thead/tr/th/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.column</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Antecedentes de asignaturas&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>57645007-876a-4d29-af99-36a27c792989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>column</value>
+      <webElementGuid>f3eccd36-ad1b-48b3-b21f-3a4f3545d966</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Antecedentes de asignaturas</value>
+      <webElementGuid>773002c6-62d0-4710-b945-2bce9d4f5a0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;classbook&quot;)/div[@class=&quot;bb-bookblock bb-vertical&quot;]/div[@class=&quot;bb-item  z-depth-4&quot;]/div[@class=&quot;pageComplete&quot;]/table[@class=&quot;table is-bordered is-narrow is-hoverable is-scrollable is-size-7&quot;]/thead[1]/tr[1]/th[1]/div[@class=&quot;columns&quot;]/div[@class=&quot;column&quot;]</value>
+      <webElementGuid>737bc6e0-5000-4339-b9e5-7d01fba557b2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='classbook']/div/div[6]/div/table/thead/tr/th/div/div</value>
+      <webElementGuid>94dfb8b8-1c96-40d7-9ee7-bb333e1d0fc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Curso no posee alumnos'])[2]/following::div[6]</value>
+      <webElementGuid>7f47461d-aa39-4357-910c-6d92b90715e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Domicilio'])[2]/following::div[6]</value>
+      <webElementGuid>ad53f2b7-8ed9-4fad-8e12-cd3b0d872925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccione dia:'])[1]/preceding::div[2]</value>
+      <webElementGuid>ffc48544-a326-46f7-818e-16f1e29877b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asignatura'])[2]/preceding::div[2]</value>
+      <webElementGuid>4c0eca03-6d44-43d9-84e8-c3001aa6d114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Antecedentes de asignaturas']/parent::*</value>
+      <webElementGuid>1c959390-d304-49bd-be28-7c8a69ac9567</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th/div/div</value>
+      <webElementGuid>b3a6e719-a12f-4438-a499-50d7d8941a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Antecedentes de asignaturas' or . = 'Antecedentes de asignaturas')]</value>
+      <webElementGuid>9497498d-4f72-4b82-b5b6-cee9d04aa0d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

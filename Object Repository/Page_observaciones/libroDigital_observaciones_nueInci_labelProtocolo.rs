@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_observaciones_nueInci_labelProtocolo</name>
+   <tag></tag>
+   <elementGuidId>624159b3-1d84-4109-83d8-6db75900d124</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista de Artículos o Protocolos y Procedmientos acordádos'])[1]/following::option[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>option.optionsStyle</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#artProtocoloLista</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>818eef61-b10a-4a99-a60b-328005a26a93</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>optionsStyle</value>
+      <webElementGuid>8e81b5f9-fee0-476f-a1bf-d5603d435e25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value> ArtículoProtocolo: 'prueb' Articulo 10 , Severidad: 'Normal' , Procedimiento: 'prueba' Articulo 10 </value>
+      <webElementGuid>ac60c68f-5fcc-41a4-b33c-d78002b004ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  ArtículoProtocolo: 'prueb' Articulo 10 , Severidad: 'Normal' , Procedimiento: 'prueba' Articulo 10  </value>
+      <webElementGuid>7de84bf3-859b-4708-b605-950cad4bcda6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;artProtocoloLista&quot;)/option[@class=&quot;optionsStyle&quot;]</value>
+      <webElementGuid>b697795f-f7cb-444d-a634-61ee1e38771a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//option[@value=&quot; ArtículoProtocolo: 'prueb' Articulo 10 , Severidad: 'Normal' , Procedimiento: 'prueba' Articulo 10 &quot;]</value>
+      <webElementGuid>896f323d-cba5-4000-95a4-3332df77b40e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//select[@id='artProtocoloLista']/option</value>
+      <webElementGuid>16ac4765-890d-49e2-9be9-668c720f8739</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista de Artículos o Protocolos y Procedmientos acordádos'])[1]/following::option[1]</value>
+      <webElementGuid>c60ad068-14d2-4475-b840-488483183067</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quitar'])[1]/following::option[1]</value>
+      <webElementGuid>343018c8-92f5-4d58-93a1-5cd00d7b828b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acuerdos y Medidas Disciplinarias'])[1]/preceding::option[1]</value>
+      <webElementGuid>8c66640f-22f7-4a65-a94c-68a1dd3b35ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Acuerdos o medidas disciplinarias:'])[1]/preceding::option[1]</value>
+      <webElementGuid>b63b6ac7-c45f-4b66-9bac-7f77290bd827</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div[3]/div[2]/select/option</value>
+      <webElementGuid>42b3fc76-e08f-4f2b-a7e6-c0c2f95a906e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//option[(text() = concat(&quot;  ArtículoProtocolo: &quot; , &quot;'&quot; , &quot;prueb&quot; , &quot;'&quot; , &quot; Articulo 10 , Severidad: &quot; , &quot;'&quot; , &quot;Normal&quot; , &quot;'&quot; , &quot; , Procedimiento: &quot; , &quot;'&quot; , &quot;prueba&quot; , &quot;'&quot; , &quot; Articulo 10  &quot;) or . = concat(&quot;  ArtículoProtocolo: &quot; , &quot;'&quot; , &quot;prueb&quot; , &quot;'&quot; , &quot; Articulo 10 , Severidad: &quot; , &quot;'&quot; , &quot;Normal&quot; , &quot;'&quot; , &quot; , Procedimiento: &quot; , &quot;'&quot; , &quot;prueba&quot; , &quot;'&quot; , &quot; Articulo 10  &quot;))]</value>
+      <webElementGuid>3edc0988-7122-44f8-8485-2f7da3b077ce</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

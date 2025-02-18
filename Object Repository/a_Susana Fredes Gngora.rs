@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Susana Fredes Gngora</name>
+   <tag></tag>
+   <elementGuidId>ae5bcd83-0df1-448b-84d0-01b24d07a40d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='listar_usuarios']/table/tbody/tr[2]/td[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(6) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Susana Fredes Góngora&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cf79a3f0-d836-4e55-b40e-4bc72a1e2439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>fichaUser.php?user=230045</value>
+      <webElementGuid>9e7abd96-237c-4635-b3c8-2a8c538c5137</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Susana Fredes Góngora</value>
+      <webElementGuid>6d05a64e-4937-4a60-8926-32905bbd103e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;listar_usuarios&quot;)/table[@class=&quot;sortable&quot;]/tbody[1]/tr[2]/td[6]/a[1]</value>
+      <webElementGuid>14eca1bd-71d6-40b7-b04b-7b2206d7da48</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='listar_usuarios']/table/tbody/tr[2]/td[6]/a</value>
+      <webElementGuid>5b38fb28-1c35-4335-add5-dc103606dfcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Susana Fredes Góngora')]</value>
+      <webElementGuid>dd7daccb-be21-4e02-8cb6-7e26b29393ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Profesor'])[2]/following::a[3]</value>
+      <webElementGuid>11992b71-22d6-4cb5-80e0-b3a047605c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WebClass Presentación Suite'])[1]/following::a[4]</value>
+      <webElementGuid>a0be55cc-9924-4ed4-946d-c5c90ef2370c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='susana.fredes.gongora@gmail.com'])[1]/preceding::a[1]</value>
+      <webElementGuid>bb4d8bf7-2837-4357-9e59-e1ed67659a5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Susana Fredes Góngora']/parent::*</value>
+      <webElementGuid>59a6d0be-b1e9-4970-a005-2a309842b5ad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'fichaUser.php?user=230045')])[4]</value>
+      <webElementGuid>a600fe01-1f30-4c27-89e0-1044ad96035a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[6]/a</value>
+      <webElementGuid>65adf285-eb21-43c7-96b2-7b4bf0f9bcea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'fichaUser.php?user=230045' and (text() = 'Susana Fredes Góngora' or . = 'Susana Fredes Góngora')]</value>
+      <webElementGuid>8d88977c-366f-4487-8dd9-a7c3509f6b62</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

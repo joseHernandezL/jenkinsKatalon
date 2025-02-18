@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_libroClases_labelIdentificacionAlumnos</name>
+   <tag></tag>
+   <elementGuidId>8627d5b4-1b07-4881-ac0a-9c6f67c6a324</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='printElement']/table/thead/tr/th</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>thead > tr > th</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Identificación del alumno&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>2a3ecb67-cbd6-4f80-b06d-a5d446eb22a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>5</value>
+      <webElementGuid>de9bcbd1-38a4-4eae-b92f-fd3b937afc5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>50.4%</value>
+      <webElementGuid>5f4750bc-955e-417b-8951-0b4f2faadd86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Identificación del alumno</value>
+      <webElementGuid>b9242ff1-1056-44e2-99b5-7e75b8fd6c4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;printElement&quot;)/table[@class=&quot;table is-bordered is-narrow is-hoverable is-scrollable is-size-7 is-capitalized&quot;]/thead[1]/tr[1]/th[1]</value>
+      <webElementGuid>b5304702-8161-4c61-9d0f-f26a69cbf5bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='printElement']/table/thead/tr/th</value>
+      <webElementGuid>335cee3c-582c-43c2-98da-321669769a91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pedro Córdova'])[4]/following::th[1]</value>
+      <webElementGuid>01779bbb-5960-48fe-a0cd-7a889d394731</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Religión Católica BB.CC.2020'])[1]/following::th[1]</value>
+      <webElementGuid>7004d3f5-3cfc-4cb7-82c3-932eba634bd0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fecha de nacimiento'])[1]/preceding::th[1]</value>
+      <webElementGuid>69d2d73a-a074-4b9e-b0f9-cea530004118</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Género'])[1]/preceding::th[2]</value>
+      <webElementGuid>e234d49e-59c5-4fe5-ae1e-3b8e696a1418</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Identificación del alumno']/parent::*</value>
+      <webElementGuid>83a24fbc-a096-4f76-b6a8-7b2f10e42895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//thead/tr/th</value>
+      <webElementGuid>6631ad2b-c602-4574-acac-37c89f90953f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = ' Identificación del alumno' or . = ' Identificación del alumno')]</value>
+      <webElementGuid>5be0619c-3a19-46ca-852e-277446d150dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

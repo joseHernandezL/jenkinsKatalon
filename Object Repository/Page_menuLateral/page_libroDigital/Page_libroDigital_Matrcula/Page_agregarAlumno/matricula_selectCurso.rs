@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>matricula_selectCurso</name>
+   <tag></tag>
+   <elementGuidId>6320bc7e-bce3-426c-86e1-b6aaece0af4b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#curso</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='curso']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#curso</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>91806fd9-bf90-4d93-bacb-bd9c10834d19</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>curso</value>
+      <webElementGuid>706cfffe-5d44-4d2a-bc17-5406f750095f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>32ca574a-6a29-459c-95b8-fe97039a1b09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                No seleccionado
+                                                            </value>
+      <webElementGuid>ed9aab6e-92e4-4589-8e32-b08395bc71f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;curso&quot;)</value>
+      <webElementGuid>bd22ef9d-17f6-4ced-b878-92acb62c60c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='curso']</value>
+      <webElementGuid>d0395445-469c-4904-b08a-b0253c5bb4ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_form_3']/tbody/tr[2]/td[2]/select</value>
+      <webElementGuid>c9f0c1c4-422c-4ef2-9952-7d23522acdf0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[40]/following::select[1]</value>
+      <webElementGuid>01a92a9f-b3f0-4d29-9142-160150410442</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Curso'])[1]/following::select[1]</value>
+      <webElementGuid>b98d9836-6da7-4c65-a6b7-9e06a72013fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Colegio de procedencia'])[1]/preceding::select[1]</value>
+      <webElementGuid>9446604e-483b-4fea-be56-4a233740e618</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[41]/preceding::select[1]</value>
+      <webElementGuid>2b575e1f-a25f-41c8-8ae2-3b0ce54469c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//table[3]/tbody/tr[2]/td[2]/select</value>
+      <webElementGuid>c5f6bb76-f313-4965-976a-0f310e559d4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'curso' and (text() = '
+                                No seleccionado
+                                                            ' or . = '
+                                No seleccionado
+                                                            ')]</value>
+      <webElementGuid>4461439a-75e3-4b37-bb38-97e05a51c4a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

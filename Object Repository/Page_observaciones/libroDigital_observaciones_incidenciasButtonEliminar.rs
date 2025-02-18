@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_observaciones_incidenciasButtonEliminar</name>
+   <tag></tag>
+   <elementGuidId>42d102bf-3d9b-4fc7-8011-ec543dfb98f7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='tabla_anotaciones']/div/div[9]/div[12]/div/div[3]/a/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(9) > div:nth-child(12) > .i-row > div:nth-child(3) > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>7f15a7ca-6cc1-4258-84fc-121ba1b19a50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-trash-o</value>
+      <webElementGuid>d7a8cdd3-83db-4393-a2dd-e6c096b083f6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d1e19d00-1a9a-4da6-a97c-3e05a2627bca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tabla_anotaciones&quot;)/div[@class=&quot;i-container i-table&quot;]/div[@class=&quot;i-row i-center i-table-body i-table-body-hover&quot;]/div[@class=&quot;i-col-1 i-center i-table-rows inc-col-12&quot;]/div[@class=&quot;i-row i-center i-herramientas&quot;]/div[@class=&quot;i-col-4 i-center&quot;]/a[1]/i[@class=&quot;fa fa-trash-o&quot;]</value>
+      <webElementGuid>8965a3f1-951d-48eb-8b2f-58ff4001d7a4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='tabla_anotaciones']/div/div[9]/div[12]/div/div[3]/a/i</value>
+      <webElementGuid>bae20fe7-3e55-4779-ac4b-ebf2749c7279</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/div[12]/div/div[3]/a/i</value>
+      <webElementGuid>7414316f-ace6-4f0e-bcba-e54eee13fa53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

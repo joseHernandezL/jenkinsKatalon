@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>matricula_buttonCancelarImprecion</name>
+   <tag></tag>
+   <elementGuidId>3a9a0c23-95dd-429f-b865-24387d7415bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-ban</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[7]/div/div[3]/button[2]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Cancelar&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>dc54d33d-2abb-4521-bcee-f4a1da735a21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-ban</value>
+      <webElementGuid>72a1d921-e619-4742-a656-804ab688ba06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>64811987-6d2a-4577-b889-db2944c43d12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;fixed-left widescreen modal-open swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-fade swal2-shown&quot;]/div[@class=&quot;swal2-popup swal2-modal swalMatricula swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-cancel swal2-styled&quot;]/i[@class=&quot;fa fa-ban&quot;]</value>
+      <webElementGuid>6e59e784-0689-4039-9ca0-078fc96234a8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div[3]/button[2]/i</value>
+      <webElementGuid>d7242c2b-dc5b-4590-8f13-91fe2c88cf99</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

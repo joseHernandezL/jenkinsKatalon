@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_libroClases_buttonLibroClases</name>
+   <tag></tag>
+   <elementGuidId>aedf2050-49b6-499a-93e1-11f1990a4d5c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cd23</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='cd23']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;LIBRO DE CLASES taller de deporte&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6d79472e-6c7b-4980-8267-a1915077f053</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>cd23</value>
+      <webElementGuid>8812e456-ef27-4772-bdc3-40b556698ec7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>background-book-sm f-center</value>
+      <webElementGuid>2f7eaae6-aeb6-4393-bdbf-e4f7c2895e89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LIBRO DE CLASES taller de deporte </value>
+      <webElementGuid>ba534fdb-9b01-4dfd-9b94-a0e084c40fe7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-3 col-md-3 col-sm-4 f-center&quot;]/a[1]/div[@id=&quot;cd23&quot;]</value>
+      <webElementGuid>182b0d0f-1c74-4254-b4a2-e4063d2f0332</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='cd23']</value>
+      <webElementGuid>8149a3d2-7aca-43cf-9ea5-fe226d07a35d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div[2]/div/a/div</value>
+      <webElementGuid>a3f0a206-54ac-416d-b8a4-561c71ff64a0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Año:'])[1]/following::div[6]</value>
+      <webElementGuid>30da6e72-c2d8-4c14-88d9-c3fa26b66a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nivel:'])[1]/following::div[9]</value>
+      <webElementGuid>6be9bbc1-3f7f-4bd7-b90f-153ab8b6918f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/a/div</value>
+      <webElementGuid>8d04a504-6b73-46d0-a44b-27055d3b70d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'cd23' and (text() = 'LIBRO DE CLASES taller de deporte ' or . = 'LIBRO DE CLASES taller de deporte ')]</value>
+      <webElementGuid>4c224af3-d8d1-4a5e-bb93-e311ee0b6077</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_listado_bitacora_buttonAprobacion</name>
+   <tag></tag>
+   <elementGuidId>eefd915f-13bc-4ee2-b3cb-f60060516437</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[contains(@class,'fa fa-thumbs-o-down')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-thumbs-o-down</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>a:nth-child(5) >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>1ebe2938-8d5d-4226-ae90-487afc0b41f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-thumbs-o-down</value>
+      <webElementGuid>38f3ef24-28b3-4f50-bdf9-6b9399a8824c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Observación desaprobada</value>
+      <webElementGuid>8be00513-7cfd-41d7-ba53-b06cb7f0b624</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onclick</name>
+      <type>Main</type>
+      <value>validar(196822,1)</value>
+      <webElementGuid>176f2b3e-af3b-458a-85e5-110052dc18dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>5bbb2c87-21f9-4e29-8c74-b8a4c3e190cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tr-196822&quot;)/td[8]/a[5]/i[@class=&quot;fa fa-thumbs-o-down&quot;]</value>
+      <webElementGuid>01fafd2c-03b7-434b-bcc2-0a48295e0210</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//i[@onclick='validar(196822,1)']</value>
+      <webElementGuid>9d4178ca-482f-4e8c-aeee-09ba716e1393</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='tr-196822']/td[8]/a[5]/i</value>
+      <webElementGuid>c8e19a94-ce18-44f8-942d-ab922b788ac9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[5]/i</value>
+      <webElementGuid>cc46b9ea-db67-4845-b501-cf987d67439a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//i[@title = 'Observación desaprobada']</value>
+      <webElementGuid>3ced158a-7c57-43b2-8e99-9a4768622e80</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

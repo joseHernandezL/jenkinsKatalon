@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_observaciones_labelalumno</name>
+   <tag></tag>
+   <elementGuidId>28c65078-29bc-4b68-a17e-c52c3c393cbf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//option[@value='5845803']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>option[value=&quot;5845803&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#combo_alumnos</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>b7c18bea-17e8-41e0-91b0-42bea3a093ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>5845803</value>
+      <webElementGuid>818d5eb6-ebd9-4e0c-a57c-80a6a0c051b5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                Asdas  Asdasd                            </value>
+      <webElementGuid>11b19fbd-990e-4683-b117-b518b6f16084</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;combo_alumnos&quot;)/option[1]</value>
+      <webElementGuid>ac684826-2815-455e-9beb-dcffc3b7fe67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//option[@value='5845803']</value>
+      <webElementGuid>0a87001d-741b-45fa-8d26-a9b8145f1d68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//select[@id='combo_alumnos']/option</value>
+      <webElementGuid>93b5b57e-a7de-42dd-bbcc-dea482febace</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccionar alumnos'])[1]/following::option[1]</value>
+      <webElementGuid>95a2c54d-e056-4043-9c0d-6a75d219f17b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Curso:'])[1]/following::option[51]</value>
+      <webElementGuid>6c5ada68-4979-4ee1-84b7-c33ad27c3b62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lista alumnos selecionados'])[1]/preceding::option[2]</value>
+      <webElementGuid>d5d690c5-56ca-4935-9946-2d5e68fc9f6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Detalles de la Observación'])[1]/preceding::option[2]</value>
+      <webElementGuid>e4239c84-76c9-4d4a-b92d-18df5510a887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[2]/div/div/select/option</value>
+      <webElementGuid>3766d4fa-9478-4844-936b-833a8e4ae382</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//option[(text() = '
+                                Asdas  Asdasd                            ' or . = '
+                                Asdas  Asdasd                            ')]</value>
+      <webElementGuid>48f87e58-6f27-4ca7-80cd-111649426a68</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_listado_buttonObservaciones</name>
+   <tag></tag>
+   <elementGuidId>ad5491a5-32c7-4d4e-ab57-4540f928a960</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='grillaAlumnos']/tr/td[14]/span[6]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-pencil-square.x18</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span:nth-child(6) > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>ee6bd403-ba2c-44ce-810d-bc07dc67af54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-pencil-square x18</value>
+      <webElementGuid>e725f4a3-a081-4120-9c2e-85ea2d3d4e9b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>63334f95-2ccb-41c1-863d-658fd29df75d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grillaAlumnos&quot;)/tr[1]/td[@class=&quot;ancho-herramientas&quot;]/span[@class=&quot;verTooltip&quot;]/a[1]/i[@class=&quot;fa fa-pencil-square x18&quot;]</value>
+      <webElementGuid>09721de2-ab7d-47ab-b7dd-90c630da6683</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='grillaAlumnos']/tr/td[14]/span[6]/a/i</value>
+      <webElementGuid>02c5d8c0-19f2-494b-82fd-5c6fa212aada</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[6]/a/i</value>
+      <webElementGuid>df2dd218-9dd1-4060-a4e2-d0d0033685b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

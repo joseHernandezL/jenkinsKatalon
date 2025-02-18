@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>matriculaVer_selectEstadoCivil</name>
+   <tag></tag>
+   <elementGuidId>5f5f6084-206b-4342-a61e-2dbf45469aef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='e_apo_est']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#e_apo_est</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#e_apo_est</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>f129c498-0b3f-41d1-afa9-63cfb219ef27</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>form-control</value>
+      <webElementGuid>91aaaa43-7482-4c2d-81fc-8ba7bdb7908f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>e_apo_est</value>
+      <webElementGuid>c683d725-ac25-4338-b51b-d6254e8bf71b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>e_apo_est</value>
+      <webElementGuid>38bf8af9-e8c5-4afe-a454-a67d3550cd15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                            Soltero (a)
+                                                Casado(a)
+                                                Separado(a)
+                                                Viudo(a)
+                                                Divorciado(a)
+                                                Conviviente Civil
+                                        </value>
+      <webElementGuid>bae07463-5cdb-41b6-b5bb-0456c949777b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e_apo_est&quot;)</value>
+      <webElementGuid>0a6e3fe8-d007-424b-9e93-2e2329f0642d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='e_apo_est']</value>
+      <webElementGuid>39c22b7c-04cb-46ad-8279-1a32d946f260</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='editApoForm']/table/tbody/tr[3]/td[4]/select</value>
+      <webElementGuid>e76c7b69-f276-46d1-887a-e089fbe1c35a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/form/table/tbody/tr[3]/td[4]/select</value>
+      <webElementGuid>bfdc845d-fcac-43e6-b139-504802b2f029</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'e_apo_est' and @name = 'e_apo_est' and (text() = '
+                                            Soltero (a)
+                                                Casado(a)
+                                                Separado(a)
+                                                Viudo(a)
+                                                Divorciado(a)
+                                                Conviviente Civil
+                                        ' or . = '
+                                            Soltero (a)
+                                                Casado(a)
+                                                Separado(a)
+                                                Viudo(a)
+                                                Divorciado(a)
+                                                Conviviente Civil
+                                        ')]</value>
+      <webElementGuid>5126bb27-6be0-4696-b3ad-e90d77b1a934</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

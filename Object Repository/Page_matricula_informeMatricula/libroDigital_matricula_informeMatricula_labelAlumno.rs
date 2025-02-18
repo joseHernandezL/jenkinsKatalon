@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_matricula_informeMatricula_labelAlumno</name>
+   <tag></tag>
+   <elementGuidId>4e29e85c-40e1-4c7f-bd3a-80f69518ed1a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tr[@id='alumno5845796']/td[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#alumno5845796 > td:nth-of-type(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;prueba prueba pruebas&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>c85ba122-d706-48d7-9332-76f085905f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>prueba prueba pruebas  </value>
+      <webElementGuid>4c1d1e7f-f26c-4611-ad25-abeefab8ad5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alumno5845796&quot;)/td[4]</value>
+      <webElementGuid>24cdbebe-e443-4343-b8e5-6375a118bf7d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='alumno5845796']/td[4]</value>
+      <webElementGuid>6c7fbb1f-8961-4bdc-b7f0-5acee0981bb9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Domicilio'])[2]/following::td[4]</value>
+      <webElementGuid>963ff787-6454-4ce0-aa98-f324d0305a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/following::td[4]</value>
+      <webElementGuid>a79a454c-cfa1-44c1-96f8-323c808272ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primero Básico B'])[2]/preceding::td[2]</value>
+      <webElementGuid>bb4f4d6f-c36f-479d-b37b-e7044dccbb8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/preceding::td[4]</value>
+      <webElementGuid>2efd5cbf-a952-4b4a-874e-7592ef6c9c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='prueba prueba pruebas']/parent::*</value>
+      <webElementGuid>895b7949-a57d-4072-93fa-622bb11ecf5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/table/tbody/tr/td[4]</value>
+      <webElementGuid>c9666266-6733-4114-967f-1f51cc95533b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'prueba prueba pruebas  ' or . = 'prueba prueba pruebas  ')]</value>
+      <webElementGuid>05db8c5d-cafc-4862-985a-13cd40e2c947</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

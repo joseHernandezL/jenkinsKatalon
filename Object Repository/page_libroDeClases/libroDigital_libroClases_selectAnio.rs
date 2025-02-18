@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_libroClases_selectAnio</name>
+   <tag></tag>
+   <elementGuidId>2192034c-434d-4ca7-9afb-61698e62921c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div[4]/div/v-container-item/select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>v-container-item >> internal:has-text=&quot;2012201320142015201620172018201920202022202320242025&quot;i >> internal:role=combobox</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>e5ecb305-5dd3-4c87-9a13-9228d61cf8a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2012201320142015201620172018201920202022202320242025</value>
+      <webElementGuid>7634f93f-9882-4dae-815a-2510370426b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;container-fluid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-10&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-3&quot;]/div[@class=&quot;select is-fullwidth&quot;]/v-container-item[1]/select[1]</value>
+      <webElementGuid>df60051d-55ff-4097-95f6-bef971e93574</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div[4]/div/v-container-item/select</value>
+      <webElementGuid>62baa71e-1013-4e38-8286-ad8438d5b7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Año:'])[1]/following::select[1]</value>
+      <webElementGuid>b021d58a-ed9d-4e7c-8783-f15ac5f1475d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nivel:'])[1]/following::select[2]</value>
+      <webElementGuid>8581a815-1dbf-4adc-ac0c-7f405ab20e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LIBRO DE CLASES'])[1]/preceding::select[1]</value>
+      <webElementGuid>4aea9f90-add3-44c2-a4d8-7944c035ee3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='transicion a'])[1]/preceding::select[1]</value>
+      <webElementGuid>0b611965-4fa5-43e3-a5ac-926b3495ef42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/v-container-item/select</value>
+      <webElementGuid>154d1737-0e1d-4e39-81cf-b1ca7a39ede9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[(text() = '2012201320142015201620172018201920202022202320242025' or . = '2012201320142015201620172018201920202022202320242025')]</value>
+      <webElementGuid>ac3b34df-507a-4aab-bc26-e128450b3c8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

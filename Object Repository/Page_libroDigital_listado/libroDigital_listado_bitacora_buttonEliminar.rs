@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_listado_bitacora_buttonEliminar</name>
+   <tag></tag>
+   <elementGuidId>10a68256-9b3b-4192-ad96-935bff344674</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[@class='fa fa-trash']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-trash</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1385 Anamnesis 12-02-2025 Anamnesis 0 QA Auto Ver observación Editar observación Adjuntar archivo Destacar observación Eliminar observación&quot;s] >> internal:attr=[title=&quot;Eliminar observación&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>3dd65c01-8f8f-42e5-91a2-6c90953503c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-trash</value>
+      <webElementGuid>f62b15e8-95a3-4ed5-b59f-85d8a6457033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e2dd72a5-bf89-461a-b373-26a3dfcae168</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tr-196822&quot;)/td[8]/a[7]/i[@class=&quot;fa fa-trash&quot;]</value>
+      <webElementGuid>37923ae8-74dd-49d9-80c3-8be248ddc56f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tr[@id='tr-196822']/td[8]/a[7]/i</value>
+      <webElementGuid>b8a79f78-2c65-40b3-a925-98b3431618e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[7]/i</value>
+      <webElementGuid>5b5ea122-f323-44be-acb3-2c55b917f966</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

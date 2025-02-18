@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>tc_asistenciaApoderado</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7c1926dd-979f-4915-92ce-c318c880f8ca</testCaseGuid>
+</TestCaseEntity>

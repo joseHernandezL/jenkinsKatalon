@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_listado_bitacora_Label</name>
+   <tag></tag>
+   <elementGuidId>7a84cde2-a5aa-404f-a837-c210a5ef458f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='area_imprimir']/table/tbody/tr/td/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;FICHA DE ANAMNESIS&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>e529979d-1f73-4c9f-8989-5b126118190a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+	FICHA DE ANAMNESIS</value>
+      <webElementGuid>47de5e91-3015-40d7-b6bf-824b77c9f650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;area_imprimir&quot;)/table[1]/tbody[1]/tr[1]/td[@class=&quot;mitexto&quot;]/h2[1]</value>
+      <webElementGuid>74573d77-c3ce-410f-a86a-d10e028f4968</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='area_imprimir']/table/tbody/tr/td/h2</value>
+      <webElementGuid>28161c46-548f-41dc-8519-fa4645f6db72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=': Anamnesis'])[2]/following::h2[1]</value>
+      <webElementGuid>9d274b1f-bb06-4980-816a-a15b4c8849be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre completo del/la estudiante:'])[1]/preceding::h2[1]</value>
+      <webElementGuid>73fc3d26-fa40-463e-adee-d2c2c405f5b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>45911bdd-a509-4f82-84b0-ec4ef7f95e32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = '
+	FICHA DE ANAMNESIS' or . = '
+	FICHA DE ANAMNESIS')]</value>
+      <webElementGuid>8005998f-a111-423b-a3f0-09236065144f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>matricula_buttonEliminarMatricula</name>
+   <tag></tag>
+   <elementGuidId>c250214f-5606-4ab2-a69b-025fdd8b6d68</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='botones']/nav/ul/li/a/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Eliminar matrícula&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>9c0482b6-3206-4974-895e-e3e93768ef21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Eliminar matrícula</value>
+      <webElementGuid>c085cc7b-e308-4045-96b6-a3d191502d9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;botones&quot;)/nav[@class=&quot;nav_header&quot;]/ul[@class=&quot;active nav navbar-nav&quot;]/li[1]/a[@class=&quot;btn_eliminarmatricula&quot;]/p[1]</value>
+      <webElementGuid>f63bbafc-079e-4542-9421-20fe60974fd2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='botones']/nav/ul/li/a/p</value>
+      <webElementGuid>1840e03e-6f52-4fb7-8548-ad8f27f9ce84</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restaurar Todo'])[1]/following::p[1]</value>
+      <webElementGuid>2033dda9-8619-4a5a-83d7-0946f831a79b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mover'])[2]/following::p[1]</value>
+      <webElementGuid>aecbe9cc-cf80-426a-b5b4-db3fb78f4c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(+56) 22 869 9100'])[1]/preceding::p[5]</value>
+      <webElementGuid>fdd24b5a-48e8-4b7a-830e-d7b2213b2051</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Eliminar matrícula']/parent::*</value>
+      <webElementGuid>05c708aa-d3ca-467c-a401-5c951288dab1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>6472adc0-cbd4-474a-b4a7-b865918c5e3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Eliminar matrícula' or . = 'Eliminar matrícula')]</value>
+      <webElementGuid>961526a6-21bc-40b7-9454-e8ecd3336ffe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

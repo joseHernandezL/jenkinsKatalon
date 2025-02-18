@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>matricula_inputVer</name>
+   <tag></tag>
+   <elementGuidId>d09949c4-a1ab-48bd-9272-96c83ea45c85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='tablaMatricula']/tbody/tr/td[15]/span/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fas.fa-eye</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Ver matrícula año actual&quot;s] >> internal:role=link</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>a5192309-ff95-4109-aee4-7b32cc5ef989</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fas fa-eye</value>
+      <webElementGuid>7faad6d4-0aab-4a98-90fa-6d790279e737</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>568f75d6-2eba-4be6-adf9-b73c68062fc9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tablaMatricula&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;anchoIconos&quot;]/span[@class=&quot;verTooltip&quot;]/a[1]/i[@class=&quot;fas fa-eye&quot;]</value>
+      <webElementGuid>4af14389-b565-4884-8ea0-271a65f3e889</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='tablaMatricula']/tbody/tr/td[15]/span/a/i</value>
+      <webElementGuid>47716acc-3f71-4787-b629-5926f9ba1014</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Primero Básico B'])[2]/following::i[2]</value>
+      <webElementGuid>04996688-8e91-4ce9-acc7-ad4ee564d02b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vulnerable'])[2]/following::i[2]</value>
+      <webElementGuid>c6801547-839b-418f-acd3-1526672991d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ver matrícula año actual'])[1]/preceding::i[1]</value>
+      <webElementGuid>c7e65b32-88e7-4cd7-993a-83cbae74b7fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mostrando registros del 1 al 1 de un total de 1 registros (filtrado de un total de 32 registros)'])[1]/preceding::i[1]</value>
+      <webElementGuid>2c395910-2db4-4529-9e0c-45b5949b3908</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/a/i</value>
+      <webElementGuid>35156db3-3f0c-40dc-a94a-c8cad85e705e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

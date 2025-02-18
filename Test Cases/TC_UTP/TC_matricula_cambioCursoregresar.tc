@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_matricula_cambioCursoregresar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ba169b9b-6a17-4964-a203-0a54fbe8875f</testCaseGuid>
+</TestCaseEntity>

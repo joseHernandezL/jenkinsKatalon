@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_listado_bitacora_buttonRegresar</name>
+   <tag></tag>
+   <elementGuidId>d2241421-dc99-41fd-9c91-315c735a8bf6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//a[@id='boton_regresar_cabecera_menu']/button/i)[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > #boton_regresar_cabecera_menu > button.button-menu-mobile.waves-effect.waves-light.btn-volver-menu > i.fa.fa-mail-reply</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>698c7b30-054f-4479-9482-ebe25af1f3c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-mail-reply</value>
+      <webElementGuid>aabad0c1-c1fc-4a98-8d6f-04881649a882</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alvaro&quot;)/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;container&quot;]/ul[@class=&quot;nav navbar-nav hidden-xs&quot;]/li[3]/a[@id=&quot;boton_regresar_cabecera_menu&quot;]/button[@class=&quot;button-menu-mobile waves-effect waves-light btn-volver-menu&quot;]/i[@class=&quot;fa fa-mail-reply&quot;]</value>
+      <webElementGuid>ecdebc15-beae-4d14-bf67-a9ac5e6f6d26</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='boton_regresar_cabecera_menu']/button/i)[3]</value>
+      <webElementGuid>ebe833d7-8954-4928-8cb8-5c2efcdb337f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/button/i</value>
+      <webElementGuid>567c6f41-1d0c-475d-8819-6fd01e5a0f4a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>production</name>
+   <tag></tag>
+   <defaultProfile>false</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('dataProd').getValue(2, 1)</initValue>
+      <name>URL</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('dataProd').getValue(2, 2)</initValue>
+      <name>usuarioUTP</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestData('dataProd').getValue(2, 3)</initValue>
+      <name>claveUTP</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

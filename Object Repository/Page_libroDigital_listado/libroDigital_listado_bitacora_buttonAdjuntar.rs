@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_listado_bitacora_buttonAdjuntar</name>
+   <tag></tag>
+   <elementGuidId>3c17e939-2944-4f2d-8bdc-58f1cab3d725</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//i[contains(@class,'fa fa-pencil-square-o')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-paperclip</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;1385 Anamnesis 12-02-2025 Anamnesis 0 QA Auto Ver observación Editar observación Adjuntar archivo Destacar observación Eliminar observación&quot;s] >> internal:attr=[title=&quot;Adjuntar archivo&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>daec422f-3598-43cd-b733-e8b67c176489</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-paperclip</value>
+      <webElementGuid>9f58293b-d635-47a9-9844-81263ee06a69</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>285927a9-a3fc-459f-9de9-1ea30b569598</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;tr-196822&quot;)/td[8]/a[@id=&quot;agregar-adj&quot;]/i[@class=&quot;fa fa-paperclip&quot;]</value>
+      <webElementGuid>4236709b-b1ef-41b2-aed6-1861cf2d247f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='agregar-adj']/i</value>
+      <webElementGuid>99be2316-cdc8-4231-b711-b502044ef71b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/i</value>
+      <webElementGuid>8f0c0efa-c277-4815-bafb-d4d84739c2b3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

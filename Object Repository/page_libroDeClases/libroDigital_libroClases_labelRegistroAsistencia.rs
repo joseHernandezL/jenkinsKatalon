@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_libroClases_labelRegistroAsistencia</name>
+   <tag></tag>
+   <elementGuidId>2ab8ee62-411f-4ec6-baaf-564ae25d537d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='classbook']/div/div[7]/div/table/thead/tr/th[4]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>thead.th-HeaderColor > tr > th:nth-of-type(4)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Registro de asistencia&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>be9c3c6e-4adb-4521-8356-073aa82e391d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>8</value>
+      <webElementGuid>940ad223-0104-4841-a88d-bf2e8b490a10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Registro de asistencia</value>
+      <webElementGuid>dafec4a4-a090-434d-8dee-72d9ff868670</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;classbook&quot;)/div[@class=&quot;bb-bookblock bb-vertical&quot;]/div[@class=&quot;bb-item z-depth-4&quot;]/div[@class=&quot;pageComplete&quot;]/table[@class=&quot;table is-bordered is-narrow is-hoverable is-size-7 is-scrollable is-capitalized AsistDay&quot;]/thead[@class=&quot;th-HeaderColor&quot;]/tr[1]/th[4]</value>
+      <webElementGuid>76243191-b1a1-40dc-a6cb-8ab67f5e2e20</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='classbook']/div/div[7]/div/table/thead/tr/th[4]</value>
+      <webElementGuid>3aa5b9e0-c60d-42ec-a848-b2fcc6fe82ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N°M.C'])[1]/following::th[1]</value>
+      <webElementGuid>c908ec5a-185c-461c-b63f-d23215930241</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='N° lista'])[2]/following::th[2]</value>
+      <webElementGuid>6305f07f-7c0b-4ddd-afb4-00e65de8b58e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Curso Taller de Deporte'])[1]/preceding::th[1]</value>
+      <webElementGuid>aee29901-2d19-4e07-8268-5cd629cf6b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rut'])[1]/preceding::th[3]</value>
+      <webElementGuid>b0c615a5-ffda-48d7-bc02-f164b856503d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Registro de asistencia']/parent::*</value>
+      <webElementGuid>6d9b13ce-1024-4f3d-84e8-1a49ce322011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/table/thead/tr/th[4]</value>
+      <webElementGuid>5d0e58f7-83ea-4736-a8cc-934bd1bc90c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = ' Registro de asistencia' or . = ' Registro de asistencia')]</value>
+      <webElementGuid>0b83c8cc-8645-4a47-b41d-cc1b1e565218</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

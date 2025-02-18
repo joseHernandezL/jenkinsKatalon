@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_listado_bitacoraRegresarListado</name>
+   <tag></tag>
+   <elementGuidId>e189d706-8de2-4fbc-954d-6e9cb357b593</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[contains(@class,'button-menu-mobile waves-effect waves-light btn-volver-menu')])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > #boton_regresar_cabecera_menu > button.button-menu-mobile.waves-effect.waves-light.btn-volver-menu > i.fa.fa-mail-reply</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=navigation >> internal:role=button</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>2095fc9e-3b00-4e99-959e-17c7296b7c37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-mail-reply</value>
+      <webElementGuid>857f3fe5-f5cf-4495-83a8-8a3746ba2d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f626ddfa-0fa2-4dd8-bd77-22b22b6e1db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;alvaro&quot;)/div[@class=&quot;container&quot;]/div[2]/div[@class=&quot;container&quot;]/ul[@class=&quot;nav navbar-nav hidden-xs&quot;]/li[3]/a[@id=&quot;boton_regresar_cabecera_menu&quot;]/button[@class=&quot;button-menu-mobile waves-effect waves-light btn-volver-menu&quot;]/i[@class=&quot;fa fa-mail-reply&quot;]</value>
+      <webElementGuid>752900ea-6901-4fef-b4d5-0d529c6aca36</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//a[@id='boton_regresar_cabecera_menu']/button/i)[3]</value>
+      <webElementGuid>ee10b206-7705-447b-aa72-c68ea8d3bbba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/button/i</value>
+      <webElementGuid>334312eb-f1b6-4b2b-9b6c-2c1cdbffc2ea</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

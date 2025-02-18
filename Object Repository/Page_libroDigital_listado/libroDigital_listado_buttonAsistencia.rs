@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_listado_buttonAsistencia</name>
+   <tag></tag>
+   <elementGuidId>8e639673-2027-4f51-b7b2-68239dfd3e85</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='grillaAlumnos']/tr/td[14]/span[5]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-calendar-check-o.x18</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span:nth-child(5) > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fa9106d2-3e93-4308-bd47-746ce51b1a5c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-calendar-check-o x18</value>
+      <webElementGuid>0bb511ca-cff0-42d3-8b4f-697097445bc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>b77f949d-afc2-4216-8b20-62a710305a8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grillaAlumnos&quot;)/tr[1]/td[@class=&quot;ancho-herramientas&quot;]/span[@class=&quot;verTooltip&quot;]/a[1]/i[@class=&quot;fa fa-calendar-check-o x18&quot;]</value>
+      <webElementGuid>5be6de3e-65a0-4ff7-856a-50fe0412fbc8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='grillaAlumnos']/tr/td[14]/span[5]/a/i</value>
+      <webElementGuid>d3941d1e-a687-40c7-8131-fe436a216c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/a/i</value>
+      <webElementGuid>855cfbd8-eb4a-4d1e-ac3f-f1e0e6d0f7a6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

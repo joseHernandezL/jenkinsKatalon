@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>matricula_selectCivil                                                                                                                                       Casado(a)</name>
+   <tag></tag>
+   <elementGuidId>5bfb10e1-a0d2-4ca4-8766-5187a2e212c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#estado_civil</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='estado_civil']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#estado_civil</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>5589fcf5-f237-40f9-b26a-59677b49a841</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>estado_civil</value>
+      <webElementGuid>7b59b741-356c-4ed0-904c-8d1bb0bf6407</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>estado_civil</value>
+      <webElementGuid>054081cc-0323-4ef8-90b1-7cd6cf45f8ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>03efc4df-8b25-45de-aec7-12a5ba909df8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                                                             Soltero (a)                                                
+                                                                                                 Casado(a)                                                
+                                                                                                 Separado(a)                                                
+                                                                                                 Viudo(a)                                                
+                                                                                                 Divorciado(a)                                                
+                                                                                                 Conviviente Civil                                                
+                                                                                        </value>
+      <webElementGuid>7f24ceee-20c3-4bad-9821-b2cc23c86c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;estado_civil&quot;)</value>
+      <webElementGuid>cb66db2a-084e-40c1-a54a-f08a0aa2bf74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='estado_civil']</value>
+      <webElementGuid>836ef8c3-e45e-49a0-b8ce-4ffae33e2c8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='table_form']/tbody/tr[4]/td/fieldset/div/table/tbody/tr[9]/td[2]/select</value>
+      <webElementGuid>13a69b91-bd65-4733-ab00-6e7724fcc925</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[9]/following::select[1]</value>
+      <webElementGuid>54283a21-8233-4a18-918d-d3dd9dec25db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Estado civil'])[1]/following::select[1]</value>
+      <webElementGuid>0d172722-5704-4ae5-bb0e-381d73a28f67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Religión'])[1]/preceding::select[1]</value>
+      <webElementGuid>af83cd03-3638-4f3f-9125-2dc8652921a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=':'])[10]/preceding::select[1]</value>
+      <webElementGuid>0108426e-aff0-4426-a5a2-c98cc3a76aa6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[9]/td[2]/select</value>
+      <webElementGuid>068af48c-2664-49c1-8fc0-f4137b1e4564</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@name = 'estado_civil' and @id = 'estado_civil' and (text() = '
+                                                                                             Soltero (a)                                                
+                                                                                                 Casado(a)                                                
+                                                                                                 Separado(a)                                                
+                                                                                                 Viudo(a)                                                
+                                                                                                 Divorciado(a)                                                
+                                                                                                 Conviviente Civil                                                
+                                                                                        ' or . = '
+                                                                                             Soltero (a)                                                
+                                                                                                 Casado(a)                                                
+                                                                                                 Separado(a)                                                
+                                                                                                 Viudo(a)                                                
+                                                                                                 Divorciado(a)                                                
+                                                                                                 Conviviente Civil                                                
+                                                                                        ')]</value>
+      <webElementGuid>b1504faf-25a4-4f76-9f4e-d990499b09c0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

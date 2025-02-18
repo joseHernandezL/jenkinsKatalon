@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_libroClases_menuLateral_buttonPersonalidad</name>
+   <tag></tag>
+   <elementGuidId>57b43260-fc16-4156-a6e2-32e6b93901aa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Calificaciones **'])[1]/following::a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;person_pinPersonalidad&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4d24dee6-d129-4f89-98c8-0ea50057cad0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>5c1574e4-cdb2-4747-b768-edfecfcf0e61</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>person_pinPersonalidad</value>
+      <webElementGuid>74ad0c25-851e-45b8-b6e6-8fef9c992df0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;supports preserve3d csstransforms csstransforms3d csstransitions csstransformspreserve3d vuesax-app-is-ltr&quot;]/body[1]/div[@class=&quot;vs-content-sidebar&quot;]/div[@class=&quot;vs-sidebar vs-sidebar-primary&quot;]/div[@class=&quot;vs-sidebar--items&quot;]/ul[@class=&quot;menu-list&quot;]/li[@class=&quot;list-internos&quot;]/a[1]/div[@class=&quot;vs-sidebar--item&quot;]/a[1]</value>
+      <webElementGuid>53ffee1f-d52f-4929-b8c6-c9930237df0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Calificaciones **'])[1]/following::a[2]</value>
+      <webElementGuid>523f34e5-e6f4-478b-a78f-a53645806c79</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='trending_up'])[1]/following::a[2]</value>
+      <webElementGuid>c7d81dc8-aa52-420f-a943-f0bc24f5321a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[13]</value>
+      <webElementGuid>8f5b38fe-46e8-4947-a4dc-34183288d098</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[13]/a/div/a</value>
+      <webElementGuid>6ec486ac-71d1-4738-b012-eb30f5669917</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'person_pinPersonalidad' or . = 'person_pinPersonalidad')]</value>
+      <webElementGuid>6bdcdd75-271b-4816-9c63-93c294a45b44</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

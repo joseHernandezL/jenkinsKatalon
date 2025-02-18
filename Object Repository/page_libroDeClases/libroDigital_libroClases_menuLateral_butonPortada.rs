@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_libroClases_menuLateral_butonPortada</name>
+   <tag></tag>
+   <elementGuidId>a84e931d-b82d-4963-80d4-63c644ae5446</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.vs-sidebar--item.vs-sidebar-item-active > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_right'])[1]/following::a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;bookPortada&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f74e28ab-31c7-47f1-ad37-aeaf0509e184</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+      <webElementGuid>c314d3aa-2770-4874-b1b0-f2f411be10e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>bookPortada</value>
+      <webElementGuid>ad6b49a2-2997-4b7e-93f7-90c9fbdfa043</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;supports preserve3d csstransforms csstransforms3d csstransitions csstransformspreserve3d vuesax-app-is-ltr&quot;]/body[1]/div[@class=&quot;vs-content-sidebar&quot;]/div[@class=&quot;vs-sidebar vs-sidebar-primary&quot;]/div[@class=&quot;vs-sidebar--items&quot;]/ul[@class=&quot;menu-list&quot;]/li[@class=&quot;list-internos&quot;]/a[1]/div[@class=&quot;vs-sidebar--item vs-sidebar-item-active&quot;]/a[1]</value>
+      <webElementGuid>5cb1e30d-9f48-4ffb-85e6-4a590337f641</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='chevron_right'])[1]/following::a[2]</value>
+      <webElementGuid>faa15170-5a6f-455d-a888-107068ffc590</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Libro de clases'])[1]/following::a[2]</value>
+      <webElementGuid>78b60e03-ad46-4cea-9c7c-6a37103c3456</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '#')])[3]</value>
+      <webElementGuid>99c56f2e-ab7b-4ed3-b16e-540be9f91c63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/div/a</value>
+      <webElementGuid>852227d9-f019-415b-b872-755b12e85ec2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '#' and (text() = 'bookPortada' or . = 'bookPortada')]</value>
+      <webElementGuid>9b2cd46e-8cb9-4c14-8f48-90b3536dce5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

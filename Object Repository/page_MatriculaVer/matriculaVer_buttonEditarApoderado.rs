@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>matriculaVer_buttonEditarApoderado</name>
+   <tag></tag>
+   <elementGuidId>5a3e43eb-1e8d-4571-9009-04c8d63e7b2d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='new_tabla_apoderados']/div/table/tbody/tr[3]/td[16]/button/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-pencil-square-o</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=group[name=&quot;Antecedentes familiares&quot;i] >> internal:role=button >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>8959ac53-9bbd-416d-9465-726eabbba1da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-pencil-square-o</value>
+      <webElementGuid>040d5d79-70fa-48d4-997e-37a39ea3ebab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>0d5ced64-269b-4622-a2b1-cd74d492cb81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;new_tabla_apoderados&quot;)/div[@class=&quot;col col-sm-12&quot;]/table[@class=&quot;table table-bordered&quot;]/tbody[1]/tr[3]/td[16]/button[1]/i[@class=&quot;fa fa-pencil-square-o&quot;]</value>
+      <webElementGuid>13779137-71e5-42b7-8117-9b6f73af0562</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='new_tabla_apoderados']/div/table/tbody/tr[3]/td[16]/button/i</value>
+      <webElementGuid>8839fbcc-8619-4ad2-9b00-2036a8b62674</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[16]/button/i</value>
+      <webElementGuid>cde895c4-bf46-4e98-b16f-e18d00bf62a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

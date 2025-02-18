@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_asistenciaApoderado_labelPrimeroBasicoA</name>
+   <tag></tag>
+   <elementGuidId>248ec912-455b-4236-830b-a7f1240114a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='select-options-ed3bfe24-aa43-bad9-13f2-30a4510ed1311']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#select-options-ed3bfe24-aa43-bad9-13f2-30a4510ed1311 > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=list >> internal:text=&quot;2025 - primero basico t A&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>cdf31414-4d35-4851-b88c-761d57d4e97f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2025 - primero basico t A</value>
+      <webElementGuid>8ba1ee3d-402e-47f6-86f8-d3407b987650</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select-options-ed3bfe24-aa43-bad9-13f2-30a4510ed1311&quot;)/span[1]</value>
+      <webElementGuid>cf4f76dc-7791-49dd-af2a-054e623c3f66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_asistenciaApoderado/iframe__iframe2</value>
+      <webElementGuid>ecb03419-94c6-4821-aca1-c6761da19147</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='select-options-ed3bfe24-aa43-bad9-13f2-30a4510ed1311']/span</value>
+      <webElementGuid>a3191044-1d7c-4293-8a16-19fae7752514</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Seleccionar'])[3]/following::span[1]</value>
+      <webElementGuid>c8604dd1-38bf-48ae-ae35-0597afdaaaf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Curso:'])[1]/following::span[2]</value>
+      <webElementGuid>e8a62617-18c4-45bc-99f3-c51f81b866d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='arrow_drop_down'])[2]/preceding::span[9]</value>
+      <webElementGuid>f0ebdc00-d4ef-4641-a465-a0872d94d518</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Reunión de apoderados'])[1]/preceding::span[9]</value>
+      <webElementGuid>0afdea29-0960-462a-a7e9-0ba698aeb8a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2025 - primero basico t A']/parent::*</value>
+      <webElementGuid>818bb9c6-57f8-4bec-a660-7f3c338d8e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[2]/span</value>
+      <webElementGuid>0dee8a03-09a9-4ec8-ad2b-5a71d0dd31dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '2025 - primero basico t A' or . = '2025 - primero basico t A')]</value>
+      <webElementGuid>82db3be3-1948-4cf7-8d0e-fd52065f9b69</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

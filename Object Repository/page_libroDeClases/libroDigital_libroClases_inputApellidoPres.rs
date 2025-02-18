@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_libroClases_inputApellidoPres</name>
+   <tag></tag>
+   <elementGuidId>e851429d-ded6-4ee0-bfca-cde686119d52</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@type='text'])[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(4) > input.input.is-primary</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Curso: Presidente&quot;i] >> internal:role=textbox >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e7509556-4807-46f1-9a66-dbfb1f532f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>342658ad-18f4-4967-9946-fc4cb1940bd2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input is-primary</value>
+      <webElementGuid>35815dde-7e7c-4724-8a1d-d4d783047910</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;classbook&quot;)/div[@class=&quot;bb-bookblock bb-vertical&quot;]/div[@class=&quot;bb-item&quot;]/div[@id=&quot;seal&quot;]/div[@class=&quot;has-text-centered all-text-color&quot;]/div[2]/table[@class=&quot;table is-bordered is-narrow has-centered is-size-7&quot;]/tr[2]/td[4]/input[@class=&quot;input is-primary&quot;]</value>
+      <webElementGuid>b9d186ec-3bc2-4b8b-b1ed-b8efec574b05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@type='text'])[2]</value>
+      <webElementGuid>5530b4f2-04a1-4aa5-a3d2-2c2289937c15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='seal']/div/div[2]/table/tr[2]/td[4]/input</value>
+      <webElementGuid>07b8957f-c8bc-4596-84a7-2346ccf6f55a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]/input</value>
+      <webElementGuid>125b8646-335f-47d1-85d7-bbf65c448ae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text']</value>
+      <webElementGuid>8854d923-1f42-4f2e-aad6-1b40b7f64464</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

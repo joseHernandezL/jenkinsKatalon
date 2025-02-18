@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_observacion_nueInci_selectTipoIncidente</name>
+   <tag></tag>
+   <elementGuidId>9cc3e4ff-eabf-445d-9aa4-6f760c901657</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//select[@id='idTipoIncidente']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#idTipoIncidente</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#idTipoIncidente</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>select</value>
+      <webElementGuid>9ffe5984-849d-48b6-9eba-25e61b7c35a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>idTipoIncidente</value>
+      <webElementGuid>2e276ed7-0b21-4037-8390-ff9c60ceeeb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>selectCustom</value>
+      <webElementGuid>60944a2d-197b-4357-bcfe-cdf89cbafc55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                             Seleccione un tipo 
+                              Acoso no sexual    Acoso o intimidación por motivos de discapacidad    Acoso o intimidación por motivos de raza, color u origen nacional    Acoso o intimidación por razón de sexo    Acoso sexual    Agresión sexual    Alcohol    Allanamiento    Altercado físico, menor    Amenaza escolar    Amenaza/Intimidación    Anotación positiva    Asociación    Comportamiento obsceno    Conducta desordenada    Delitos sexuales, otros (comportamiento lascivo, exposición indecente)    Drogas Excluyendo Alcohol y Tabaco    Homicidio    Hurto    Incendio provocado    Insubordinación    Peleas    Poseción de armas    Posesión o uso de tabaco    Robo    Robo / Allanamiento de morada    Secuestro    Uso Inapropiado de Medicamentos    Vandalismo    Violación de la política de asistencia    Violacion de reglas del colegio                          </value>
+      <webElementGuid>eb310f06-320c-4f25-aaad-36cf95338475</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idTipoIncidente&quot;)</value>
+      <webElementGuid>1fc086f0-3b4a-4e02-849d-dbace97273a5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='idTipoIncidente']</value>
+      <webElementGuid>869f4a23-8100-4be9-8dfc-fff6f183e972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='incidenteObs']/div/div[4]/div[4]/div[2]/select</value>
+      <webElementGuid>c9424fa2-14ac-485a-8c6e-193d31c33309</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(*)'])[1]/following::select[1]</value>
+      <webElementGuid>fa64a000-2259-4ba3-a778-326a14e203a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Severidad:'])[1]/preceding::select[1]</value>
+      <webElementGuid>26684186-615c-4698-9b5f-62d6ecaf531a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipo de Arma:'])[1]/preceding::select[2]</value>
+      <webElementGuid>1d60ea69-8ef0-404d-8253-a8728af46537</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div[2]/select</value>
+      <webElementGuid>8762197e-5d28-4a3e-8f0b-8f53e9d2abb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'idTipoIncidente' and (text() = '
+                             Seleccione un tipo 
+                              Acoso no sexual    Acoso o intimidación por motivos de discapacidad    Acoso o intimidación por motivos de raza, color u origen nacional    Acoso o intimidación por razón de sexo    Acoso sexual    Agresión sexual    Alcohol    Allanamiento    Altercado físico, menor    Amenaza escolar    Amenaza/Intimidación    Anotación positiva    Asociación    Comportamiento obsceno    Conducta desordenada    Delitos sexuales, otros (comportamiento lascivo, exposición indecente)    Drogas Excluyendo Alcohol y Tabaco    Homicidio    Hurto    Incendio provocado    Insubordinación    Peleas    Poseción de armas    Posesión o uso de tabaco    Robo    Robo / Allanamiento de morada    Secuestro    Uso Inapropiado de Medicamentos    Vandalismo    Violación de la política de asistencia    Violacion de reglas del colegio                          ' or . = '
+                             Seleccione un tipo 
+                              Acoso no sexual    Acoso o intimidación por motivos de discapacidad    Acoso o intimidación por motivos de raza, color u origen nacional    Acoso o intimidación por razón de sexo    Acoso sexual    Agresión sexual    Alcohol    Allanamiento    Altercado físico, menor    Amenaza escolar    Amenaza/Intimidación    Anotación positiva    Asociación    Comportamiento obsceno    Conducta desordenada    Delitos sexuales, otros (comportamiento lascivo, exposición indecente)    Drogas Excluyendo Alcohol y Tabaco    Homicidio    Hurto    Incendio provocado    Insubordinación    Peleas    Poseción de armas    Posesión o uso de tabaco    Robo    Robo / Allanamiento de morada    Secuestro    Uso Inapropiado de Medicamentos    Vandalismo    Violación de la política de asistencia    Violacion de reglas del colegio                          ')]</value>
+      <webElementGuid>232477a9-82b0-49cb-be08-07c824e92a5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

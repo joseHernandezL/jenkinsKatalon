@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_listado_buttonBitacora</name>
+   <tag></tag>
+   <elementGuidId>85dca584-a880-4836-a034-6225d6378a59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//tbody[@id='grillaAlumnos']/tr/td[14]/span[2]/a/i</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>i.fa.fa-book.x18</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>span:nth-child(2) > a</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>fa44e0d1-39b6-4f1d-baa3-79970caa8493</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fa fa-book x18</value>
+      <webElementGuid>400a861a-0e84-4464-bfe2-e0c29c549cf3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>d9d5aee1-fbb0-4955-83ec-196cf2887059</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;grillaAlumnos&quot;)/tr[1]/td[@class=&quot;ancho-herramientas&quot;]/span[@class=&quot;verTooltip&quot;]/a[1]/i[@class=&quot;fa fa-book x18&quot;]</value>
+      <webElementGuid>e8798996-b899-4aba-ae60-0c60bfaf8791</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//tbody[@id='grillaAlumnos']/tr/td[14]/span[2]/a/i</value>
+      <webElementGuid>ae9f4a9e-afb2-4bb9-a5af-a4520e58acd8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/a/i</value>
+      <webElementGuid>85bfc93a-dc8f-47dd-8aaf-dab3d131645b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

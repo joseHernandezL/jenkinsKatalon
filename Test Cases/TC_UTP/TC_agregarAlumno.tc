@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_agregarAlumno</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>529d1323-6e23-4ce4-97cf-76deb7b89267</testCaseGuid>
+</TestCaseEntity>

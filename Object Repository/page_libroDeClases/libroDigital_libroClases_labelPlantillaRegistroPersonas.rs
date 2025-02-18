@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_libroClases_labelPlantillaRegistroPersonas</name>
+   <tag></tag>
+   <elementGuidId>b2d4920b-55bd-4d95-970b-e102214b6255</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='classbook']/div/div[10]/div/table/thead/tr/th</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Planilla de rasgos de la personalidad&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>th</value>
+      <webElementGuid>76a5f9aa-e260-4981-b314-55f7dff1f4a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>3</value>
+      <webElementGuid>76b475ec-de26-4327-88a7-902902b2fb84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Planilla de rasgos de la personalidad</value>
+      <webElementGuid>efa0f1b9-24c6-48b2-a522-9d991cc9e9a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;classbook&quot;)/div[@class=&quot;bb-bookblock bb-vertical&quot;]/div[@class=&quot;bb-item  z-depth-4&quot;]/div[@class=&quot;pageComplete&quot;]/table[@class=&quot;table is-bordered is-narrow is-hoverable is-scrollable is-size-7 is-capitalized&quot;]/thead[1]/tr[1]/th[1]</value>
+      <webElementGuid>63f32696-7ce1-4eba-aa0d-b426d1164892</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='classbook']/div/div[10]/div/table/thead/tr/th</value>
+      <webElementGuid>994f9919-8f47-4d2c-a1f5-f6e8d040b527</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Curso no posee alumnos'])[4]/following::th[1]</value>
+      <webElementGuid>cdffe852-0dfc-4735-854a-b92d37a83aac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='P.F'])[1]/following::th[1]</value>
+      <webElementGuid>a4756c72-1fe1-4c4d-b57c-d8064cf0cd8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Planilla de rasgos de la personalidad']/parent::*</value>
+      <webElementGuid>7b0bf33c-8881-46fa-8e47-30adc6d544d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[10]/div/table/thead/tr/th</value>
+      <webElementGuid>5f2dbe0d-5609-461d-b052-fc0c97344923</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//th[(text() = 'Planilla de rasgos de la personalidad' or . = 'Planilla de rasgos de la personalidad')]</value>
+      <webElementGuid>ebdb33c6-4391-4e83-90c7-9dc634c728bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

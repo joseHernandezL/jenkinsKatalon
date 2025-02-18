@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_asistenciaApoderado_labelApoderado</name>
+   <tag></tag>
+   <elementGuidId>722b3af8-630e-4163-82f9-ad0d3b32c9cf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='print_area']/table/tbody/tr/td[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(3)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;Córdova Fernández Pedro rossi tomas|&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>7dfd1952-a3fa-4fd1-a208-59410944b515</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Córdova Fernández Pedrorossi  tomas|</value>
+      <webElementGuid>643db506-635e-4c89-b5e3-d733297f4f5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;print_area&quot;)/table[1]/tbody[1]/tr[1]/td[3]</value>
+      <webElementGuid>e4f27442-ef6d-4574-be94-3592537f3131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_asistenciaApoderado/iframe__iframe2</value>
+      <webElementGuid>5e84948f-3fa8-4aa6-833a-7300d7babdbb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='print_area']/table/tbody/tr/td[3]</value>
+      <webElementGuid>c6e452b3-ba8a-497a-b89c-8a8b82bf17e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre alumno'])[1]/following::td[3]</value>
+      <webElementGuid>529777d8-961a-4ecd-9fdf-548d63fc8fad</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nombre apoderado'])[1]/following::td[3]</value>
+      <webElementGuid>964cbf26-5e94-4dcf-8c87-a50912ac2559</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]</value>
+      <webElementGuid>71c74e32-d473-4009-bc25-de4330934050</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'Córdova Fernández Pedrorossi  tomas|' or . = 'Córdova Fernández Pedrorossi  tomas|')]</value>
+      <webElementGuid>a422600c-d028-46ca-a544-21effd0fdfcc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

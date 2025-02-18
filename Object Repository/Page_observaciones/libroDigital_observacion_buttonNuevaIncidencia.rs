@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>libroDigital_observacion_buttonNuevaIncidencia</name>
+   <tag></tag>
+   <elementGuidId>dc44ee3c-1a98-484f-aa12-96aa5cc4f466</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='incidentebtn']/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#incidentebtn > p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#incidentebtn</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>e1f698ff-2734-496a-82e3-dd3d8b8701e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nuevo Incidente</value>
+      <webElementGuid>259ed9bd-ea99-40e4-ace1-166570f3c7cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;incidentebtn&quot;)/p[1]</value>
+      <webElementGuid>7a8aade9-890d-4409-af13-01a6652b6b66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='incidentebtn']/p</value>
+      <webElementGuid>442d37b0-7b2f-4a54-a86c-4ce838f66b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Restaurar Todo'])[1]/following::p[2]</value>
+      <webElementGuid>328c3826-5694-4786-acc5-4bd844fb8cd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mover'])[2]/following::p[2]</value>
+      <webElementGuid>e1aac818-2cff-40a4-82f6-da0f24fa8eb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(+56) 22 869 9100'])[1]/preceding::p[3]</value>
+      <webElementGuid>7a047322-6602-40d6-bf63-926d534f5120</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nuevo Incidente']/parent::*</value>
+      <webElementGuid>b072f5b0-7725-4d70-bb78-757624683f0c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/p</value>
+      <webElementGuid>cd9842e7-ab75-4a1d-af77-7f794d50cdd7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Nuevo Incidente' or . = 'Nuevo Incidente')]</value>
+      <webElementGuid>3a437ca9-95c9-4b71-85c3-7e572b85c9f1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
